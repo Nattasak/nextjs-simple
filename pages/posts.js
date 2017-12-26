@@ -2,7 +2,7 @@ import { Fragment } from 'react';
 import Head from 'next/head';
 import fetch from 'isomorphic-unfetch';
 
-import Nav from '../component/nav';
+import Nav from '../component/Nav';
 
 const Posts = ({ posts }) => (
   <Fragment>

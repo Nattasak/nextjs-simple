@@ -1,7 +1,7 @@
 import { Fragment } from 'react';
 import Head from 'next/head';
 
-import Nav from '../component/nav';
+import Nav from '../component/Nav';
 
 export default () => (
   <Fragment>
