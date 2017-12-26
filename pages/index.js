@@ -11,7 +11,7 @@ export default () => (
     <Nav />
 
     <div>
-      <h1>Home page</h1>
+      <h1>Home</h1>
       <p>home description</p>
 
       <style jsx>{`

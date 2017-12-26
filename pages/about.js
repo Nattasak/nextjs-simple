@@ -11,7 +11,7 @@ export default () => (
     <Nav />
 
     <div>
-      <h1>About page</h1>
+      <h1>About</h1>
       <p>about description</p>
     </div>
 

@@ -11,8 +11,8 @@ export default () => (
     <Nav />
 
     <div>
-      <h1>Join Us page</h1>
-      <p>Join Us description</p>
+      <h1>Join Us</h1>
+      <p>join us description</p>
 
       <style jsx>{`
         p {
